@@ -16,7 +16,9 @@
             <p class="card-text">El Xiaomi 14 es un smartphone de gama alta con pantalla AMOLED de 6,36", procesador Snapdragon 8 Gen 3, cámara principal Leica de 50 MP, batería de 4610 mAh con carga rápida de 90W y diseño premium.</p>
         </div>
     </div>
-
+    <h1>hola</h1>
+    <h1>hola</h1>
+    <h1>hola</h1>
     <div class="card" style="width: 18rem;">
         <img src="{{ asset('img/iphonexr.jpg') }}" class="card-img-top" alt="...">
         <div class="card-body">
