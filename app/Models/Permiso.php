@@ -1,0 +1,21 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Permiso extends Model
+{
+    public $fillable = [
+        'rol_id',
+        'accion_id'
+    ];
+
+    public function rol(){
+    return $this->belongsTo('App\Models\Rol');
+    }
+
+    public function accion(){
+        return $this->belongsTo('App\Models\Accion');
+    }
+}
