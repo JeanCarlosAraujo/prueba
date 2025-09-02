@@ -19,6 +19,11 @@
     <h1>hola</h1>
     <h1>hola</h1>
     <h1>hola</h1>
+            
+    <p>chulo</p>
+    <p>chulo</p>
+    <p>chulo</p>
+            
     <div class="card" style="width: 18rem;">
         <img src="{{ asset('img/iphonexr.jpg') }}" class="card-img-top" alt="...">
         <div class="card-body">
